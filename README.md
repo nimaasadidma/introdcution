@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nima.
 - 👀 I’m interested in artificial intelligence applications, especially ML, CV and DL.
-- 🌱 I’m currently a PhD student at UofR, CANADA
-- 💞️ I'm working on Autonomous Vehicles.
+- 💞️ I'm working on Object Detection, Computer Vision Systems and Autonomous Vehicles.
 - 📫 You can contact me on Instagram: https://www.instagram.com/artintedu
